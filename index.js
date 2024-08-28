@@ -4,7 +4,7 @@ const client = new Client({
   auth: {
     // TODO: Use .env file to store sensitive information
     username: "elastic", // This is the default username for Elasticsearch (NOT RECOMMENDED TO CHANGE)
-    password: "pss", // Replace with your actual password
+    password: "nr6ihcnb4pRq2+ePugDL", // Replace with your actual password  DONE
   },
   tls: {
     rejectUnauthorized: false,
